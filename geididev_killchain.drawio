@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="XuZoVNNHjQJzWPepiiGC">
-        <mxGraphModel dx="18600" dy="5340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3667" dy="3077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -17,13 +17,13 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="Adaptive Cards POC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="3480" y="-620" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3700" y="-610" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="ApprovalMax Improvements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-1030" width="120" height="60" as="geometry"/>
+                <mxCell id="8" value="ApprovalMax Improvements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="1670" y="-1030" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="Automated Monthly Audit Announcements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="-610" width="120" height="60" as="geometry"/>
@@ -57,38 +57,38 @@
                 <mxCell id="18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="19" target="21" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="ApprovalMax list of approvers" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-890" width="120" height="60" as="geometry"/>
+                <mxCell id="19" value="ApprovalMax list of approvers" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="1670" y="-890" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="21" target="64" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="AP Process Human &amp;amp; Robot Sanity Check" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-750" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="1670" y="-750" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="23" target="129" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="Escalation App&lt;br&gt;(via Teams)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="3570" y="-1040" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3790" y="-1030" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="25" target="27" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="25" value="Vox" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-                    <mxGeometry x="3290" y="-1040" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3510" y="-1030" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="27" target="29" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="Vox Structured Jira Creation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-                    <mxGeometry x="3290" y="-900" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3510" y="-890" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29" target="39" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="Vox Daily Update Reminders" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3290" y="-760" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3510" y="-750" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="32" target="36" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -96,79 +96,79 @@
                 <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="32" target="62" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="CD Project initial intro for Samira" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="2010" y="-890" width="120" height="60" as="geometry"/>
+                <mxCell id="32" value="Understanding CD Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="2230" y="-880" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="Introduce Samira to Mark for Knowledge Transfer" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2090" y="-470" width="120" height="60" as="geometry"/>
+                <mxCell id="33" value="Introduce Samira to Mark for Knowledge Transfer" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#000000;gradientColor=none;strokeColor=default;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
+                    <mxGeometry x="2310" y="-460" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="Understamd Current Commercial Arrangement (are we charging the customer? How?)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1930" y="-610" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2150" y="-600" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="36" target="38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="Meet With Samira for Confidence Level" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2090" y="-750" width="120" height="60" as="geometry"/>
+                <mxCell id="36" value="Meet With Samira for Confidence Level" style="whiteSpace=wrap;html=1;rounded=0;fillColor=light-dark(#000000, #7d8c9b);fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="2310" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="38" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="2150" y="-520" as="targetPoint"/>
+                        <mxPoint x="2370" y="-510" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="38" value="Consider Bringing in Erick" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2090" y="-610" width="120" height="60" as="geometry"/>
+                <mxCell id="38" value="Consider Bringing in Greg Solon" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="2310" y="-600" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="Vox to communicate Via Teams&lt;br&gt;(Vox &amp;gt; FastAPI &amp;gt; Azure Logic &amp;gt; Adaptive Cards &amp;gt; Teams)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3290" y="-620" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3510" y="-610" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="Warrikal Adaptive Cards POC" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3480" y="-480" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3700" y="-470" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" value="Move Backlogs from Jira to Excel System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="4110" y="-1040" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="4330" y="-1030" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="43" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="Explore Supabase for Escalation App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="3650" y="-480" width="120" height="60" as="geometry"/>
+                <mxCell id="43" value="Explore Supabase for Escalation App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="3870" y="-470" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="45" target="46" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="MIrror ConnectWise to DataLake/ DataWarehouse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="3850" y="-620" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="4070" y="-610" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="Do AI Magic" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3850" y="-480" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="4070" y="-470" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="48" target="50" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="Jo-ann just got Loan updates for automated billing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="2980" y="-890" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3200" y="-880" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="50" target="52" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="&lt;span data-teams=&quot;true&quot;&gt;Internal Testing (Jhanice)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="2980" y="-750" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3200" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="52" target="54" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="52" value="UAT (with Simone)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-                    <mxGeometry x="2980" y="-610" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3200" y="-600" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="54" target="55" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="Release to Production" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-                    <mxGeometry x="2980" y="-470" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3200" y="-460" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="55" value="Post Production Monitoring" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-                    <mxGeometry x="2980" y="-330" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3200" y="-320" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="60" target="32" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -183,19 +183,19 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" value="CD Project" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="2460" y="-1030" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2680" y="-1020" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="62" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="62" value="Understand the Project Objective / Scope" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1930" y="-750" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2150" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="64" target="74" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot; lang=&quot;EN-AU&quot;&gt;Outdated&lt;br/&gt;Approver List&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-610" width="120" height="60" as="geometry"/>
+                <mxCell id="64" value="&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot; lang=&quot;EN-AU&quot;&gt;Outdated&lt;br/&gt;Approver List&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="1670" y="-610" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="67" target="69" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -218,23 +218,26 @@
                 <mxCell id="71" value="Separate Table for Jira Assignee" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="60" y="-750" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="&lt;span style=&quot;float: none; display: inline !important; color: rgb(255, 255, 255); background-color: rgb(27, 29, 30);&quot;&gt;Supabase SQL for Cell autopopulation&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                <mxCell id="72" value="&lt;span style=&quot;float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Supabase SQL for Cell autopopulation&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="60" y="-610" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74" target="76" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Incorrect&lt;/span&gt;&lt;br style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Approval Matrix&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-470" width="120" height="60" as="geometry"/>
+                <mxCell id="74" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Incorrect&lt;/span&gt;&lt;br style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Approval Matrix&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="1670" y="-470" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="76" target="77" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="76" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Flawed&lt;/span&gt;&lt;br style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Supplier-Based Approval Logic&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-330" width="120" height="60" as="geometry"/>
+                <mxCell id="76" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Flawed&lt;/span&gt;&lt;br style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Supplier-Based Approval Logic&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="1670" y="-330" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="77" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Missing&lt;/span&gt;&lt;br style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Trigger for Non-Invoice Expenses&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1590" y="-190" width="120" height="60" as="geometry"/>
+                <mxCell id="309" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="77" target="308">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Missing&lt;/span&gt;&lt;br style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 14.6667px;&quot;&gt;Trigger for Non-Invoice Expenses&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="1670" y="-190" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="79" target="81" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -306,7 +309,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="99" value="Integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-                    <mxGeometry x="2315" y="-890" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2535" y="-880" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="101" target="103" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -332,11 +335,11 @@
                 <mxCell id="107" value="Implement adaptive cards validation for invoices before forwarding to Xero" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
                     <mxGeometry x="1060" y="-50" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="108" value="&lt;div&gt;Data Load Configuration - Integration Message Bird to Turnkey&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2250" y="-750" width="120" height="60" as="geometry"/>
+                <mxCell id="108" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Data Load Configuration - Integration Message Bird to Turnkey&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="2470" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="109" value="&lt;span data-teams=&quot;true&quot;&gt;Data Load Configuration - Integration Message Turnkey to Bird&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-                    <mxGeometry x="2390" y="-750" width="120" height="60" as="geometry"/>
+                <mxCell id="109" value="&lt;span data-teams=&quot;true&quot;&gt;Data Load Configuration - Integration Turnkey to Bird&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="2610" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="113" target="115" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -348,46 +351,46 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="113" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;Configure Hevo ETL&lt;/span&gt;&lt;strong&gt; pipelines&lt;/strong&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-                    <mxGeometry x="2680" y="-890" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2900" y="-880" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="115" target="121" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="115" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Batch Pull from Turnkey (hourly updates).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-                    <mxGeometry x="2530" y="-750" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2750" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="117" target="123" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="117" value="&lt;span data-teams=&quot;true&quot;&gt;Scheduled raw data pull from Turnkey.(Daily)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-                    <mxGeometry x="2680" y="-750" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2900" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="119" target="125" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="119" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Scheduled raw data pull from Messagebird.(Daily)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="2830" y="-750" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3050" y="-740" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="121" target="126" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="121" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;TK Hourly Update Data.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2530" y="-610" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2750" y="-600" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="123" target="126" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="123" value="&lt;span data-teams=&quot;true&quot;&gt;TK Scheduled Data Warehouse.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2680" y="-610" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2900" y="-600" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="125" target="126" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="125" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Messagebird Raw Data Warehouse.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="2830" y="-610" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3050" y="-600" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="126" value="&lt;span data-teams=&quot;true&quot;&gt;Validate the ETL pipelines to ensure correct ingestion into BigQuery.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="2680" y="-470" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="2900" y="-460" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="129" target="133" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -396,7 +399,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="129" value="Copilot Studio (Bot Configuration POC)" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3570" y="-900" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3790" y="-890" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="133" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -408,25 +411,25 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="133" value="Power Automate Flow POC" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3570" y="-760" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3790" y="-750" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="135" target="43" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="135" value="Sharepoint Lists&lt;br&gt;(Activity Log Creation)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-                    <mxGeometry x="3650" y="-620" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="3870" y="-610" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="137" target="138" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="137" value="&lt;span data-teams=&quot;true&quot;&gt;Bot configuration on copilot studio enabling user to add response through bot prompt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-                    <mxGeometry x="3850" y="-900" width="120" height="60" as="geometry"/>
+                <mxCell id="137" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Bot configuration on copilot studio enabling user to add response through bot prompt&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#FFFFFF;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="4070" y="-890" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="138" value="Update to handle multiple responses" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="3850" y="-760" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="4070" y="-750" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="139" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;LEGENDS&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="60" y="20" width="425" height="410" as="geometry"/>
+                    <mxGeometry x="60" y="20" width="430" height="480" as="geometry"/>
                 </mxCell>
                 <mxCell id="140" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;DONE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="139" vertex="1">
                     <mxGeometry x="20" y="40" width="390" height="60" as="geometry"/>
@@ -442,6 +445,9 @@
                 </mxCell>
                 <mxCell id="144" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;UPNEXT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="139" vertex="1">
                     <mxGeometry x="20" y="320" width="390" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="&lt;font style=&quot;font-size: 30px; color: rgb(255, 255, 255);&quot;&gt;Cancelled&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=light-dark(#000000,#A0BCD2);fontColor=#FFFFFF;" vertex="1" parent="139">
+                    <mxGeometry x="20" y="390" width="390" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="146" target="148" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -463,6 +469,9 @@
                 </mxCell>
                 <mxCell id="151" value="Make sure AI Agent Creates Jira Tickets for Declined data and" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1260" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="308" value="Explore Capture Function" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1670" y="-50" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
